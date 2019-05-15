@@ -18,3 +18,10 @@ SHC(max_it)
 ```
 
 ## Simmulated Annealing
+The Simmulated Annealing algorithm receive as parameter just the temperature to be used. You can call the function as below:
+```
+SA(temperature)
+```
+The decrease value can be changed in the hardcode.
+
+## Genetic Algorithm
